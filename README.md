@@ -16,7 +16,7 @@ Here is the link to the [Design Document](https://drive.google.com/file/d/1Zad_u
 
 Here is the link to the [Demo Document](https://drive.google.com/file/d/19QzYWR22JY5n08UsAzyFYoVe3GhzDEc8/view?usp=sharing).
 
-Since this is a school project, I am not allowed to make my code public. HOWEVER, here is a link to [request access](https://drive.google.com/drive/folders/1rQe4pRyvggDsLiKOh14s-iLc84_MwX7j?usp=sharing) to the folder which contains the header (.h) files, the implementation (.cc) files, as well as the Makefile to compile the code into a useable executable. 
+Since this is a school project, I am not allowed to make my code public. HOWEVER, here is a link to [request access](https://drive.google.com/drive/folders/1rQe4pRyvggDsLiKOh14s-iLc84_MwX7j?usp=sharing) to the folder which contains the header (.h) files, the implementation (.cc) files, as well as the Makefile to compile the code into a useable executable. Please write a brief message explaining what your intent is and I'll try my best to give access as quickly as possible!
 
 Brief Glimpse
 ------------
