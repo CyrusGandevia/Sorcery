@@ -10,13 +10,13 @@ This game was created as a final project for CS246 (Object-Oriented Programming 
 
 I am particularly proud of this project as a lot of hard work and time went into building this project, with roughly 150 commits and over 50 hours of work being put into this in total! By the end of this project, I became very familiar with OOP concepts, design patterns, memory management, RAII principles, and exception safety.
 
-Here is the link to the UML Diagram.
+Here is the link to the [UML Diagram](https://drive.google.com/file/d/1zPSCfSe4CZAqnkmgtCMECo0tryRJiAYu/view?usp=sharing).
 
-Here is the link to the Design Document.
+Here is the link to the [Design Document](https://drive.google.com/file/d/1Zad_uvhdemwSA-tkfgUXuqHdiFnqr3Iv/view?usp=sharing).
 
-Here is the link to the Demo Document.
+Here is the link to the [Demo Document](https://drive.google.com/file/d/19QzYWR22JY5n08UsAzyFYoVe3GhzDEc8/view?usp=sharing).
 
-Since this is a school project, I am not allowed to make my code public. HOWEVER, here is a link to request access to the folder which contains the header (.h) files, the implementation (.cc) files, as well as the Makefile to compile the code into a useable executable. 
+Since this is a school project, I am not allowed to make my code public. HOWEVER, here is a link to [request access](https://drive.google.com/drive/folders/1rQe4pRyvggDsLiKOh14s-iLc84_MwX7j?usp=sharing) to the folder which contains the header (.h) files, the implementation (.cc) files, as well as the Makefile to compile the code into a useable executable. 
 
 Brief Glimpse
 ------------
