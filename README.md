@@ -2,7 +2,9 @@
 
 <img src="https://imgur.com/m9pIElp.jpg">
 
-Sorcery is a two-player, turn-based card game that is similar in style to games such as "Hearthstone" or "Magic: the Gathering". This game is implemented purely in C++. It uses the terminal to display the output, and takes in commands issued via the standard input.
+Sorcery is a two-player, turn-based card game that is similar in style to games such as "Hearthstone" or "Magic: the Gathering". 
+
+This game is implemented purely in C++. It uses the terminal to display the output, and takes in commands issued via the standard input.
 
 Showcase of Work
 ------------
@@ -10,7 +12,17 @@ This game was created as a final project for CS246 (Object-Oriented Programming 
 
 I am particularly proud of this project as a lot of hard work and time went into building this project, with roughly 150 commits and over 50 hours of work being put into this in total! By the end of this project, I became very familiar with OOP concepts, design patterns, memory management, RAII principles, and exception safety.
 
-Since this is a school project, I am not allowed to make my code public. HOWEVER, here is a link to [request access](https://drive.google.com/drive/folders/1rQe4pRyvggDsLiKOh14s-iLc84_MwX7j?usp=sharing) to the folder which contains the header (.h) files, the implementation (.cc) files, as well as the Makefile to compile the code into a useable executable. Please write a brief message explaining what your intent is and I'll try my best to give access as quickly as possible!
+Since this is a school project, I am not allowed to make my code public. 
+
+HOWEVER, here is a link to [request access](https://drive.google.com/drive/folders/1rQe4pRyvggDsLiKOh14s-iLc84_MwX7j?usp=sharing) to the folder which contains the following:
+- Header (.h) files
+- Implementation (.cc) files
+- Makefile (to compile the code into a useable executable)
+- UML
+- Design Document
+- Demo
+
+Please write a brief message explaining what your intent is and I'll try my best to give access as quickly as possible!
 
 Brief Glimpse
 ------------
